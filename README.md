@@ -2,10 +2,6 @@
 
 A beautiful anime-themed portfolio website built with Flask. Showcase your projects, skills, and personality with a stunning anime aesthetic.
 
-## 📸 Screenshot
-
-![Anime Portfolio Repository](./anime-portfolio.png)
-
 **View the portfolio:** Open `http://localhost:5000` in your web browser after running the Flask app.
 
 ## Features
